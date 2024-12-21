@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thethirukonda
 - 👀 I’m interested in genomics, software development,drug development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate at Team Mullis @hackBio
 - 📫 How to reach me - Mail at im.oxy67@gmail.com
 
 <!---
