@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thethirukonda
 - 👀 I’m interested in genomics, RNA-Seq,Data analysis
-- 
 - 📫 How to reach me - Mail at im.oxy67@gmail.com
 
 <!---
