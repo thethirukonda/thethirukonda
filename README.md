@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thethirukonda
-- 👀 I’m interested in genomics, software development,drug development
+- 👀 I’m interested in genomics, RNA-Seq,Data analysis
 - 🌱 I’m currently learning python
 - 📫 How to reach me - Mail at im.oxy67@gmail.com
 
